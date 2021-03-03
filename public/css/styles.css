@@ -1,0 +1,104 @@
+.editBody {
+  background-color:#ebe710;
+}
+#title {
+  color:#590670;
+  font-weight:bold;
+}
+#search {
+  color:#d1081c;
+  font-weight:bold;
+  background-color:#db7d12;
+}
+#home-header {
+  font-weight:bold;
+  color:#b2b807;
+}
+.dropdown-list {
+  font-family: 'Roboto', sans-serif;
+  color:#58635f;
+  font-weight:bolder;
+  font-size:1rem;
+}
+#feature-heading {
+  font-weight:bold;
+  color:#b2b807;
+}
+.drop {
+  color:#68b807;
+  font-weight:bold;
+}
+#home {
+  margin-top:3rem;
+}
+.booking {
+  /* display:block;
+  margin:auto;
+  padding:1% 46%; */
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  top: 55%;
+  left: 44%;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color:#b3077f;
+  font-weight:bold;
+}
+.description {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color:#27047a;
+  margin-top:1.4rem;
+}
+img {
+  border-radius:100%;
+  width:50px;
+  height:500px;
+  padding:7% 15%;
+}
+.carousel-text {
+  font-family: 'Merriweather', serif;
+  text-align: center;
+  color:#27047a;
+  font-weight:500;
+  width:800px;
+  margin-bottom:2rem;
+  display:block;
+  margin:auto;
+  margin-bottom:2.5rem;
+}
+.sign-up {
+  color:#fff;
+  font-weight:light;
+}
+.search-button {
+  margin-right:1rem;
+}
+#contact {
+  background-color:#c75f10;
+}
+.footer-title {
+  font-size:2.5rem;
+  font-weight:bolder;
+  font-family: 'Montserrat', sans-serif;
+  color:#2561c2;
+  margin-top:1.4rem;
+  padding-top:1.4rem;
+}
+.contact-details {
+  font-size:1rem;
+  font-family: 'Oswald', sans-serif;
+  color:#09330b;
+  text-align: center;
+}
+.contact-details-last {
+  font-size:1rem;
+  font-family: 'Oswald', sans-serif;
+  color:#09330b;
+  text-align: center;
+  margin-bottom:0;
+  padding-bottom:1.4rem;
+}
